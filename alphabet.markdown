@@ -23,7 +23,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>Á á</td>
 			<td>/ɑː/</td>
 			<td>A as in father</td>
-			<td>fáðær</td>
+			<td>fáðэr</td>
 		</tr>
 		<tr>
 			<td>B  b</td>
@@ -101,7 +101,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>J j</td>
 			<td>/d͡ʒ/</td>
 			<td>J as in jump</td>
-			<td>jæmp</td>
+			<td>jэmp</td>
 		</tr>
 		<tr>
 			<td>K k</td>
@@ -125,7 +125,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>N n</td>
 			<td>/n/</td>
 			<td>N as in none</td>
-			<td>næn</td>
+			<td>nэn</td>
 		</tr>
 		<tr>
 			<td>Ŋ ŋ</td>
@@ -233,19 +233,19 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>Ʒ ʒ</td>
 			<td>/ʒ/</td>
 			<td>S as in measure</td>
-			<td>meʒær</td>
+			<td>meʒэr</td>
 		</tr>
 		<tr>
-			<td>Æ æ</td>
+			<td>Э э</td>
 			<td>/ʌ ~ ə/</td>
 			<td>U as in but</td>
-			<td>bæt</td>
+			<td>bэt</td>
 		</tr>
 		<tr>
-			<td>Ǽ ǽ</td>
+			<td>Э́ э́</td>
 			<td>/ɔː/</td>
 			<td>AW as in dawn</td>
-			<td>dǽn</td>
+			<td>dэ́n</td>
 		</tr>
 	</tbody>
 </table>
