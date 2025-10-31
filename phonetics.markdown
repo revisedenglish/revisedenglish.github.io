@@ -83,3 +83,80 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 		</tr>
 	</tbody>
 </table>
+
+<h3>Before R</h3>
+
+<table>
+	<tbody>
+		<tr>
+			<th>Orthography</th>
+			<th>Phoneme (IPA)</th>
+			<th>Example (Current)</th>
+			<th>Example (Revised)</th>
+			<th>Orthography</th>
+			<th>Phoneme (IPA)</th>
+			<th>Example (Current)</th>
+			<th>Example (Revised)</th>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">AR ar</td>
+			<td>/æɹ/</td>
+			<td>carry</td>
+			<td>karí</td>
+			<td style="background-color: #FFFFCC;">ÁR ár</td>
+			<td>/ɑː(ɹ)/</td>
+			<td>farm</td>
+			<td>fárm</td>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">ER er</td>
+			<td>/ɛɹ/</td>
+			<td>error</td>
+			<td>erэr</td>
+			<td style="background-color: #FFFFCC;">ÉR ér</td>
+			<td>/ɛə(ɹ)/</td>
+			<td>hair</td>
+			<td>hér</td>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">IR ir</td>
+			<td>/ɪɹ/</td>
+			<td>mirror</td>
+			<td>mirэr</td>
+			<td style="background-color: #FFFFCC;">ÍR ír</td>
+			<td>/ɪə(ɹ)/</td>
+			<td>fear</td>
+			<td>fír</td>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">OR or</td>
+			<td>/ɒɹ/</td>
+			<td>sorry</td>
+			<td>sorí</td>
+			<td style="background-color: #FFFFCC;">ÓR ór</td>
+			<td>/ɔ:(ɹ)/</td>
+			<td>nor</td>
+			<td>nór</td>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">UR ur</td>
+			<td>/ʊɹ/</td>
+			<td>courier</td>
+			<td>kuríэr</td>
+			<td style="background-color: #FFFFCC;">ÚR úr</td>
+			<td>/ʊə(ɹ)/</td>
+			<td>poor</td>
+			<td>púr</td>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">ЭR эr</td>
+			<td>/ʌɹ ~ ə(ɹ)/</td>
+			<td>hurry</td>
+			<td>hэrí</td>
+			<td style="background-color: #FFFFCC;">Э́R э́r</td>
+			<td>/ɜː(ɹ)/</td>
+			<td>bird</td>
+			<td>bэ́rd</td>
+		</tr>
+	</tbody>
+</table>
