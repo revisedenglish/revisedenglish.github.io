@@ -249,10 +249,10 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>hír</td>
 		</tr>
 		<tr>
-			<td style="background-color: #FFFFCC;">ϴ θ</td>
-			<td>/t͡s/</td>
-			<td>pizza</td>
-			<td>píθэ</td>
+			<td style="background-color: #FFFFCC;">HW hw</td>
+			<td>/ʍ/</td>
+			<td>what</td>
+			<td>hwot</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">J j</td>

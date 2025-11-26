@@ -80,12 +80,6 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>hot</td>
 		</tr>
 		<tr>
-			<td>ϴ θ</td>
-			<td>/t͡s/</td>
-			<td>TZ as in blitz</td>
-			<td>bliθ</td>
-		</tr>
-		<tr>
 			<td>I i</td>
 			<td>/ɪ/</td>
 			<td>I as in pit</td>
