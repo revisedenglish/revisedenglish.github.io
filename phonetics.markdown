@@ -72,14 +72,14 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>Lúk</td>
 		</tr>
 		<tr>
-			<td style="background-color: #FFFFCC;">Э э</td>
+			<td style="background-color: #FFFFCC;">Æ æ</td>
 			<td>/ʌ ~ ə/</td>
 			<td>but</td>
-			<td>bэt</td>
-			<td style="background-color: #FFFFCC;">Э́ э́</td>
+			<td>bæt</td>
+			<td style="background-color: #FFFFCC;">Ǽ ǽ</td>
 			<td>/ɔː/</td>
 			<td>bought</td>
-			<td>bэ́t</td>
+			<td>bǽt</td>
 		</tr>
 	</tbody>
 </table>
@@ -112,7 +112,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">ER er</td>
 			<td>/ɛɹ/</td>
 			<td>error</td>
-			<td>erэr</td>
+			<td>erær</td>
 			<td style="background-color: #FFFFCC;">ÉR ér</td>
 			<td>/ɛə(ɹ)/</td>
 			<td>hair</td>
@@ -122,7 +122,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">IR ir</td>
 			<td>/ɪɹ/</td>
 			<td>mirror</td>
-			<td>mirэr</td>
+			<td>mirær</td>
 			<td style="background-color: #FFFFCC;">ÍR ír</td>
 			<td>/ɪə(ɹ)/</td>
 			<td>fear</td>
@@ -142,21 +142,21 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">UR ur</td>
 			<td>/ʊɹ/</td>
 			<td>courier</td>
-			<td>kuríэr</td>
+			<td>kuríær</td>
 			<td style="background-color: #FFFFCC;">ÚR úr</td>
 			<td>/ʊə(ɹ)/</td>
 			<td>poor</td>
 			<td>púr</td>
 		</tr>
 		<tr>
-			<td style="background-color: #FFFFCC;">ЭR эr</td>
+			<td style="background-color: #FFFFCC;">ÆR ær</td>
 			<td>/ʌɹ ~ ə(ɹ)/</td>
 			<td>hurry</td>
-			<td>hэrí</td>
-			<td style="background-color: #FFFFCC;">Э́R э́r</td>
+			<td>hærí</td>
+			<td style="background-color: #FFFFCC;">ǼR ǽr</td>
 			<td>/ɜː(ɹ)/</td>
 			<td>bird</td>
-			<td>bэ́rd</td>
+			<td>bǽrd</td>
 		</tr>
 	</tbody>
 </table>
@@ -184,7 +184,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>AW aw</td>
 			<td>/aʊ/</td>
 			<td>about</td>
-			<td>эbaut</td>
+			<td>æbaut</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">OI oi</td>
@@ -360,19 +360,19 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">Z z</td>
 			<td>/z/</td>
 			<td>zebra</td>
-			<td>zíbrэ</td>
+			<td>zíbræ</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Ʒ ʒ</td>
 			<td>/ʒ/</td>
 			<td>Asia</td>
-			<td>Éʒэ</td>
+			<td>Éʒæ</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">'</td>
 			<td>/ʔ/</td>
 			<td>uh-oh</td>
-			<td>э'ó</td>
+			<td>æ'ó</td>
 		</tr>
 	</tbody>
 </table>
