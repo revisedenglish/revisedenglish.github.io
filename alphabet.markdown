@@ -147,9 +147,9 @@ The following table introduces you to the expanded English alphabet. The symbols
 		</tr>
 		<tr>
 			<td>Q q</td>
-			<td>/ɣ/</td>
-			<td>GH as in ugh</td>
-			<td>uq</td>
+			<td>/ʔ/</td>
+			<td>- as in uh-oh</td>
+			<td>æqó</td>
 		</tr>
 		<tr>
 			<td>R r</td>

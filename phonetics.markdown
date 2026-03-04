@@ -298,9 +298,9 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Q q</td>
-			<td>/ɣ/</td>
-			<td>ugh</td>
-			<td>uq</td>
+			<td>/ʔ/</td>
+			<td>uh-oh</td>
+			<td>æqó</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">R r</td>
@@ -367,12 +367,6 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>/ʒ/</td>
 			<td>Asia</td>
 			<td>Éʒæ</td>
-		</tr>
-		<tr>
-			<td style="background-color: #FFFFCC;">'</td>
-			<td>/ʔ/</td>
-			<td>uh-oh</td>
-			<td>æ'ó</td>
 		</tr>
 	</tbody>
 </table>
