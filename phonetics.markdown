@@ -57,9 +57,19 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>pot</td>
 			<td>pot</td>
 			<td style="background-color: #FFFFCC;">Ó ó</td>
+			<td>/ɔː/</td>
+			<td>bought</td>
+			<td>bót</td>
+		</tr>
+		<tr>
+			<td style="background-color: #FFFFCC;">Ø ø</td>
+			<td>/ʌ/</td>
+			<td>but</td>
+			<td>bøt</td>
+			<td style="background-color: #FFFFCC;">Ǿ ǿ</td>
 			<td>/oʊ/</td>
 			<td>boat</td>
-			<td>bót</td>
+			<td>bǿt</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">U u</td>
@@ -73,13 +83,13 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Æ æ</td>
-			<td>/ʌ ~ ə/</td>
-			<td>but</td>
-			<td>bæt</td>
+			<td>/ə/</td>
+			<td>away</td>
+			<td>æwé</td>
 			<td style="background-color: #FFFFCC;">Ǽ ǽ</td>
-			<td>/ɔː/</td>
-			<td>bought</td>
-			<td>bǽt</td>
+			<td>/ɜː/</td>
+			<td><em>oeuvre</em></td>
+			<td><em>ǽvræ</em></td>
 		</tr>
 	</tbody>
 </table>
@@ -139,6 +149,16 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>nór</td>
 		</tr>
 		<tr>
+			<td style="background-color: #FFFFCC;">ØR ør</td>
+			<td>/ʌɹ/</td>
+			<td>hurry</td>
+			<td>hørí</td>
+			<td style="background-color: #FFFFCC;">ǾR ǿr</td>
+			<td>/oʊ(ɹ)/</td>
+			<td><em>four</em></td>
+			<td><em>fǿr</em></td>
+		</tr>
+		<tr>
 			<td style="background-color: #FFFFCC;">UR ur</td>
 			<td>/ʊɹ/</td>
 			<td>courier</td>
@@ -150,9 +170,9 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">ÆR ær</td>
-			<td>/ʌɹ ~ ə(ɹ)/</td>
-			<td>hurry</td>
-			<td>hærí</td>
+			<td>/ə(ɹ)/</td>
+			<td>center</td>
+			<td>sentær</td>
 			<td style="background-color: #FFFFCC;">ǼR ǽr</td>
 			<td>/ɜː(ɹ)/</td>
 			<td>bird</td>
@@ -240,7 +260,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">G g</td>
 			<td>/g/</td>
 			<td>gore</td>
-			<td>gór</td>
+			<td>gǿr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">H h</td>
@@ -258,7 +278,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">J j</td>
 			<td>/d͡ʒ/</td>
 			<td>joke</td>
-			<td>jók</td>
+			<td>jǿk</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">K k</td>
@@ -300,7 +320,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">Q q</td>
 			<td>/ʔ/</td>
 			<td>uh-oh</td>
-			<td>æqó</td>
+			<td>øqǿ</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">R r</td>
