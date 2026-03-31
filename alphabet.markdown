@@ -135,9 +135,9 @@ The following table introduces you to the expanded English alphabet. The symbols
 		</tr>
 		<tr>
 			<td>Ó ó</td>
-			<td>/oʊ/</td>
-			<td>O as in gold</td>
-			<td>góld</td>
+			<td>/ɔː/</td>
+			<td>AW as in dawn</td>
+			<td>dón</td>
 		</tr>
 		<tr>
 			<td>Ø ø</td>
@@ -147,9 +147,9 @@ The following table introduces you to the expanded English alphabet. The symbols
 		</tr>
 		<tr>
 			<td>Ǿ ǿ</td>
-			<td>/ɔː/</td>
-			<td>AW as in dawn</td>
-			<td>dǿn</td>
+			<td>/oʊ/</td>
+			<td>O as in gold</td>
+			<td>gǿld</td>
 		</tr>
 		<tr>
 			<td>P p</td>
@@ -161,13 +161,13 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>Q q</td>
 			<td>/ʔ/</td>
 			<td>- as in uh-oh</td>
-			<td>øqó</td>
+			<td>øqǿ</td>
 		</tr>
 		<tr>
 			<td>R r</td>
 			<td>/ɹ/</td>
 			<td>R as in rope</td>
-			<td>róp</td>
+			<td>rǿp</td>
 		</tr>
 		<tr>
 			<td>S s</td>

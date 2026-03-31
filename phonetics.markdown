@@ -57,8 +57,8 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>pot</td>
 			<td>pot</td>
 			<td style="background-color: #FFFFCC;">Ó ó</td>
-			<td>/oʊ/</td>
-			<td>boat</td>
+			<td>/ɔː/</td>
+			<td>bought</td>
 			<td>bót</td>
 		</tr>
 		<tr>
@@ -67,8 +67,8 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>but</td>
 			<td>bøt</td>
 			<td style="background-color: #FFFFCC;">Ǿ ǿ</td>
-			<td>/ɔː/</td>
-			<td>bought</td>
+			<td>/oʊ/</td>
+			<td>boat</td>
 			<td>bǿt</td>
 		</tr>
 		<tr>
@@ -144,7 +144,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>sorry</td>
 			<td>sorí</td>
 			<td style="background-color: #FFFFCC;">ÓR ór</td>
-			<td>/oʊ(ɹ)/</td>
+			<td>/ɔ:(ɹ)/</td>
 			<td>four</td>
 			<td>fór</td>
 		</tr>
@@ -154,9 +154,9 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>hurry</td>
 			<td>hørí</td>
 			<td style="background-color: #FFFFCC;">ǾR ǿr</td>
-			<td>/ɔ:(ɹ)/</td>
-			<td><em>nor</em></td>
-			<td><em>nǿr</em></td>
+			<td>/oʊ(ɹ)/</td>
+			<td><em>N/A</em></td>
+			<td><em>N/A</em></td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">UR ur</td>
@@ -278,13 +278,13 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">J j</td>
 			<td>/d͡ʒ/</td>
 			<td>joke</td>
-			<td>jók</td>
+			<td>jǿk</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">K k</td>
 			<td>/k/</td>
 			<td>core</td>
-			<td>kǿr</td>
+			<td>kór</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">L l</td>
@@ -320,7 +320,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">Q q</td>
 			<td>/ʔ/</td>
 			<td>uh-oh</td>
-			<td>øqó</td>
+			<td>øqǿ</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">R r</td>
