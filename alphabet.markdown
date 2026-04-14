@@ -95,7 +95,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>J j</td>
 			<td>/d͡ʒ/</td>
 			<td>J as in jump</td>
-			<td>jømp</td>
+			<td>jæmp</td>
 		</tr>
 		<tr>
 			<td>K k</td>
@@ -119,7 +119,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>N n</td>
 			<td>/n/</td>
 			<td>N as in none</td>
-			<td>nøn</td>
+			<td>næn</td>
 		</tr>
 		<tr>
 			<td>Ŋ ŋ</td>
@@ -135,21 +135,9 @@ The following table introduces you to the expanded English alphabet. The symbols
 		</tr>
 		<tr>
 			<td>Ó ó</td>
-			<td>/ɔː/</td>
-			<td>AW as in dawn</td>
-			<td>dón</td>
-		</tr>
-		<tr>
-			<td>Ø ø</td>
-			<td>/ʌ/</td>
-			<td>U as in but</td>
-			<td>bøt</td>
-		</tr>
-		<tr>
-			<td>Ǿ ǿ</td>
 			<td>/oʊ/</td>
 			<td>O as in gold</td>
-			<td>gǿld</td>
+			<td>góld</td>
 		</tr>
 		<tr>
 			<td>P p</td>
@@ -161,13 +149,13 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>Q q</td>
 			<td>/ʔ/</td>
 			<td>- as in uh-oh</td>
-			<td>øqǿ</td>
+			<td>æqó</td>
 		</tr>
 		<tr>
 			<td>R r</td>
 			<td>/ɹ/</td>
 			<td>R as in rope</td>
-			<td>rǿp</td>
+			<td>róp</td>
 		</tr>
 		<tr>
 			<td>S s</td>
@@ -249,9 +237,9 @@ The following table introduces you to the expanded English alphabet. The symbols
 		</tr>
 		<tr>
 			<td>Ǽ ǽ</td>
-			<td>/ɜː(ɹ)/</td>
-			<td>IR as in bird</td>
-			<td>bǽrd</td>
+			<td>/ɔː/</td>
+			<td>AW as in dawn</td>
+			<td>dǽn</td>
 		</tr>
 	</tbody>
 </table>
