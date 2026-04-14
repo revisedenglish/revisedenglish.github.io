@@ -73,7 +73,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Æ æ</td>
-			<td>/ə/</td>
+			<td>/ʌ/ - /ə/</td>
 			<td>away</td>
 			<td>æwé</td>
 			<td style="background-color: #FFFFCC;">Ǽ ǽ</td>
@@ -150,7 +150,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">ÆR ær</td>
-			<td>/ə(ɹ)/</td>
+			<td>/ʌɹ/ - /ə(ɹ)/</td>
 			<td>center</td>
 			<td>sentær</td>
 			<td style="background-color: #FFFFCC;">ǼR ǽr</td>
