@@ -231,7 +231,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 		</tr>
 		<tr>
 			<td>Æ æ</td>
-			<td>/ə/</td>
+			<td>/ʌ/ - /ə/</td>
 			<td>A as in about</td>
 			<td>æbaut</td>
 		</tr>
