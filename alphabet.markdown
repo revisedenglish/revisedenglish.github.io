@@ -20,10 +20,10 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>kat</td>
 		</tr>
 		<tr>
-			<td>Á á</td>
+			<td>Ā ā</td>
 			<td>/ɑː/</td>
 			<td>A as in father</td>
-			<td>fáðær</td>
+			<td>fāðær</td>
 		</tr>
 		<tr>
 			<td>B  b</td>
@@ -56,10 +56,10 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>bed</td>
 		</tr>
 		<tr>
-			<td>É é</td>
+			<td>Ē ē</td>
 			<td>/eɪ/</td>
 			<td>AY as in day</td>
-			<td>dé</td>
+			<td>dē</td>
 		</tr>
 		<tr>
 			<td>F f</td>
@@ -71,7 +71,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>G g</td>
 			<td>/g/</td>
 			<td>G as in great</td>
-			<td>grét</td>
+			<td>grēt</td>
 		</tr>
 		<tr>
 			<td>H h</td>
@@ -86,10 +86,10 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>pit</td>
 		</tr>
 		<tr>
-			<td>Í í</td>
+			<td>Ī ī</td>
 			<td>/iː/</td>
 			<td>EE as in see</td>
-			<td>sí</td>
+			<td>sī</td>
 		</tr>
 		<tr>
 			<td>J j</td>
@@ -134,10 +134,10 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>pot</td>
 		</tr>
 		<tr>
-			<td>Ó ó</td>
+			<td>Ō ō</td>
 			<td>/oʊ/</td>
 			<td>O as in gold</td>
-			<td>góld</td>
+			<td>gōld</td>
 		</tr>
 		<tr>
 			<td>P p</td>
@@ -149,13 +149,13 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>Q q</td>
 			<td>/ʔ/</td>
 			<td>- as in uh-oh</td>
-			<td>æqó</td>
+			<td>æqō</td>
 		</tr>
 		<tr>
 			<td>R r</td>
 			<td>/ɹ/</td>
 			<td>R as in rope</td>
-			<td>róp</td>
+			<td>rōp</td>
 		</tr>
 		<tr>
 			<td>S s</td>
@@ -188,10 +188,10 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>wud</td>
 		</tr>
 		<tr>
-			<td>Ú ú</td>
+			<td>Ū ū</td>
 			<td>/uː/</td>
 			<td>UE as in true</td>
-			<td>trú</td>
+			<td>trū</td>
 		</tr>
 		<tr>
 			<td>V v</td>
@@ -221,7 +221,7 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>Z z</td>
 			<td>/z/</td>
 			<td>Z as in zoo</td>
-			<td>zú</td>
+			<td>zū</td>
 		</tr>
 		<tr>
 			<td>Ʒ ʒ</td>
@@ -236,10 +236,10 @@ The following table introduces you to the expanded English alphabet. The symbols
 			<td>æbaut</td>
 		</tr>
 		<tr>
-			<td>Ǽ ǽ</td>
+			<td>Ǣ ǣ</td>
 			<td>/ɔː/</td>
 			<td>AW as in dawn</td>
-			<td>dǽn</td>
+			<td>dǣn</td>
 		</tr>
 	</tbody>
 </table>

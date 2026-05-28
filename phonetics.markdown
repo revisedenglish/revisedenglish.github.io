@@ -26,60 +26,60 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td>/æ/</td>
 			<td>bad</td>
 			<td>bad</td>
-			<td style="background-color: #FFFFCC;">Á á</td>
+			<td style="background-color: #FFFFCC;">Ā ā</td>
 			<td>/ɑː/</td>
 			<td>calm</td>
-			<td>kám</td>
+			<td>kām</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">E e</td>
 			<td>/ɛ/</td>
 			<td>bet</td>
 			<td>bet</td>
-			<td style="background-color: #FFFFCC;">É é</td>
+			<td style="background-color: #FFFFCC;">Ē ē</td>
 			<td>/eɪ/</td>
 			<td>bait</td>
-			<td>bét</td>
+			<td>bēt</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">I i</td>
 			<td>/ɪ/</td>
 			<td>bit</td>
 			<td>bit</td>
-			<td style="background-color: #FFFFCC;">Í í</td>
+			<td style="background-color: #FFFFCC;">Ī ī</td>
 			<td>/iː/</td>
 			<td>beet</td>
-			<td>bít</td>
+			<td>bīt</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">O o</td>
 			<td>/ɒ/</td>
 			<td>pot</td>
 			<td>pot</td>
-			<td style="background-color: #FFFFCC;">Ó ó</td>
+			<td style="background-color: #FFFFCC;">Ō ō</td>
 			<td>/oʊ/</td>
 			<td>boat</td>
-			<td>bót</td>
+			<td>bōt</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">U u</td>
 			<td>/ʊ/</td>
 			<td>look</td>
 			<td>luk</td>
-			<td style="background-color: #FFFFCC;">Ú ú</td>
+			<td style="background-color: #FFFFCC;">Ū ū</td>
 			<td>/uː/</td>
 			<td>Luke</td>
-			<td>Lúk</td>
+			<td>Lūk</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Æ æ</td>
 			<td>/ʌ/ - /ə/</td>
 			<td>away</td>
-			<td>æwé</td>
-			<td style="background-color: #FFFFCC;">Ǽ ǽ</td>
+			<td>æwē</td>
+			<td style="background-color: #FFFFCC;">Ǣ ǣ</td>
 			<td>/ɔː/</td>
 			<td>bought</td>
-			<td>bǽt</td>
+			<td>bǣt</td>
 		</tr>
 	</tbody>
 </table>
@@ -102,61 +102,61 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">AR ar</td>
 			<td>/æɹ/</td>
 			<td>carry</td>
-			<td>karí</td>
-			<td style="background-color: #FFFFCC;">ÁR ár</td>
+			<td>karī</td>
+			<td style="background-color: #FFFFCC;">ĀR ār</td>
 			<td>/ɑː(ɹ)/</td>
 			<td>farm</td>
-			<td>fárm</td>
+			<td>fārm</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">ER er</td>
 			<td>/ɛɹ/</td>
 			<td>error</td>
 			<td>erær</td>
-			<td style="background-color: #FFFFCC;">ÉR ér</td>
+			<td style="background-color: #FFFFCC;">ĒR ēr</td>
 			<td>/ɛə(ɹ)/</td>
 			<td>hair</td>
-			<td>hér</td>
+			<td>hēr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">IR ir</td>
 			<td>/ɪɹ/</td>
 			<td>mirror</td>
 			<td>mirær</td>
-			<td style="background-color: #FFFFCC;">ÍR ír</td>
+			<td style="background-color: #FFFFCC;">ĪR īr</td>
 			<td>/ɪə(ɹ)/</td>
 			<td>fear</td>
-			<td>fír</td>
+			<td>fīr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">OR or</td>
 			<td>/ɒɹ/</td>
 			<td>sorry</td>
-			<td>sorí</td>
-			<td style="background-color: #FFFFCC;">ÓR ór</td>
+			<td>sorī</td>
+			<td style="background-color: #FFFFCC;">ŌR ōr</td>
 			<td>/ɔ:(ɹ)/</td>
 			<td>four</td>
-			<td>fór</td>
+			<td>fōr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">UR ur</td>
 			<td>/ʊɹ/</td>
 			<td>courier</td>
-			<td>kuríær</td>
-			<td style="background-color: #FFFFCC;">ÚR úr</td>
+			<td>kurīær</td>
+			<td style="background-color: #FFFFCC;">ŪR ūr</td>
 			<td>/ʊə(ɹ)/</td>
 			<td>poor</td>
-			<td>púr</td>
+			<td>pūr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">ÆR ær</td>
 			<td>/ʌɹ/ - /ə(ɹ)/</td>
 			<td>center</td>
 			<td>sentær</td>
-			<td style="background-color: #FFFFCC;">ǼR ǽr</td>
+			<td style="background-color: #FFFFCC;">ǢR ǣr</td>
 			<td>/ɜː(ɹ)/</td>
 			<td>bird</td>
-			<td>bǽrd</td>
+			<td>bǣrd</td>
 		</tr>
 	</tbody>
 </table>
@@ -210,7 +210,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">B b</td>
 			<td>/b/</td>
 			<td>bake</td>
-			<td>bék</td>
+			<td>bēk</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">C c</td>
@@ -222,7 +222,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">D d</td>
 			<td>/d/</td>
 			<td>dare</td>
-			<td>dér</td>
+			<td>dēr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Ð ð</td>
@@ -240,13 +240,13 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">G g</td>
 			<td>/g/</td>
 			<td>gore</td>
-			<td>gór</td>
+			<td>gōr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">H h</td>
 			<td>/h/</td>
 			<td>hear</td>
-			<td>hír</td>
+			<td>hīr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">HW hw</td>
@@ -258,13 +258,13 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">J j</td>
 			<td>/d͡ʒ/</td>
 			<td>joke</td>
-			<td>jók</td>
+			<td>jōk</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">K k</td>
 			<td>/k/</td>
 			<td>core</td>
-			<td>kór</td>
+			<td>kōr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">L l</td>
@@ -276,13 +276,13 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">M m</td>
 			<td>/m/</td>
 			<td>make</td>
-			<td>mék</td>
+			<td>mēk</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">N n</td>
 			<td>/n/</td>
 			<td>name</td>
-			<td>ném</td>
+			<td>nēm</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Ŋ ŋ</td>
@@ -300,7 +300,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">Q q</td>
 			<td>/ʔ/</td>
 			<td>uh-oh</td>
-			<td>æqó</td>
+			<td>æqō</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">R r</td>
@@ -324,7 +324,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">T t</td>
 			<td>/t/</td>
 			<td>tear</td>
-			<td>tér</td>
+			<td>tēr</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Þ þ</td>
@@ -342,7 +342,7 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">W w</td>
 			<td>/w/</td>
 			<td>wait</td>
-			<td>wét</td>
+			<td>wēt</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">X x</td>
@@ -360,13 +360,13 @@ Phonemes are represented as follows, with the International Phonetic Alphabet (I
 			<td style="background-color: #FFFFCC;">Z z</td>
 			<td>/z/</td>
 			<td>zebra</td>
-			<td>zíbræ</td>
+			<td>zībræ</td>
 		</tr>
 		<tr>
 			<td style="background-color: #FFFFCC;">Ʒ ʒ</td>
 			<td>/ʒ/</td>
 			<td>Asia</td>
-			<td>Éʒæ</td>
+			<td>Ēʒæ</td>
 		</tr>
 	</tbody>
 </table>
